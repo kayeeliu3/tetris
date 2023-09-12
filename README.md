@@ -6,3 +6,5 @@ C++: Ensure that console window is 120x80 for correct formatting.
      Will attempt to re-create another version using SDL2 graphics.
 
 Python: Ongoing!
+
+References: Javidx9
